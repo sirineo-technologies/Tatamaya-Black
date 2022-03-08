@@ -1,3 +1,0 @@
-ola git
-
-script aqui
