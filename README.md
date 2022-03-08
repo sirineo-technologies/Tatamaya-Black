@@ -1,4 +1,9 @@
-Aqui um pequena Introdução dos Arquivos da Tatamaya Black.
+A Tatamaya Black foi a nossa imersão no universo hardware do IoT em Brasília no ano de 2017, quando éramos EngeBOT Tecnologia.
+
+https://prezi.com/p/0oxv--tkhxhk/tatamaya-black-campus-party-brasilia-2017/
+
+
+Aqui uma pequena Introdução dos Arquivos da Tatamaya Black.
 
 Aos poucos vamos inserindo todo o material sobre nosso Shield.
 
@@ -8,8 +13,6 @@ Acesse também:
 Tatamaya Black conheça nosso Shield IoT!
 
 https://engebotadm.wixsite.com/totaleng/post/blogujte-ze-sv%C3%A9ho-zve%C5%99ejn%C4%9Bn%C3%A9ho-webu-a-z-mobilu
-
-https://prezi.com/p/0oxv--tkhxhk/tatamaya-black-campus-party-brasilia-2017/
 
 
 Alguns Códigos Codebender Tatamaya black
