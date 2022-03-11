@@ -79,6 +79,8 @@ by
 
 Redes Sociais:
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+
 [SiriNEO Technologies - site](http://sirineotechnologies.com)
 
 [SiriNEO Technologies - Linkedin](https://www.linkedin.com/company/sirineo-technologies)
